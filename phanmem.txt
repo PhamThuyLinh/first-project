@@ -20,4 +20,4 @@ Microsoft Visual Studio Ultimate 2013
 Unikey
 Snipping
 CCleaner
-XAMPP Control Panel
+XAMPP Control Panel ...

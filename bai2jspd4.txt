@@ -1,3 +1,4 @@
+﻿model.bean -> lưu class object
 
 cách truyền biến
 isp-> servlet 
