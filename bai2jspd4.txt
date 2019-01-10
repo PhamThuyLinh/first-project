@@ -1,0 +1,6 @@
+
+cách truyền biến
+isp-> servlet 
+	 2 cach: form(method: post, get) | url =a?key=value1&value2
+servlet->jsp
+	request.setAttribute()
